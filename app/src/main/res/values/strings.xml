@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TailTales</string>
+    <string name="app_description">TailTales 1.3</string>
+    <string name="dog_1">Золотистый ретривер</string>
+    <string name="dog_2">Немецкий шпиц</string>
+    <string name="dog_3">Корги</string>
+    <string name="dog_4">Ротвейлер</string>
+    <string name="dog_5">Доберман</string>
+    <string name="dog_6">Такса</string>
+    <string name="round_item_text1">Новости</string>
+    <string name="round_item_text2">Популярные</string>
+    <string name="round_item_text3">События</string>
+    <string name="round_item_text4">Новичкам</string>
+    <string name="round_item_text5">Галерея</string>
+</resources>
